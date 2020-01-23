@@ -8,3 +8,8 @@ parrot
 def parrot(phrase = "Squawk!")
   return phrase
 end
+
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
+end
