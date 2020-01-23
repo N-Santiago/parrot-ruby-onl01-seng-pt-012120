@@ -12,4 +12,3 @@ end
 def parrot(phrase)
   puts phrase
 end
-parrot("Squawk!")
