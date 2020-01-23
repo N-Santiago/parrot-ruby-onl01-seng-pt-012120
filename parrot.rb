@@ -9,4 +9,5 @@ def parrot(phrase = "Squawk!")
   return phrase
 end
 
-def parrot(string = )
+def parrot(phrase = "Squawk!")
+  puts ${phrase}
