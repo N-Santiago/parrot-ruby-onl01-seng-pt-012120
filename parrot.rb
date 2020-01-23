@@ -10,5 +10,5 @@ def parrot(phrase = "Squawk!")
 end
 
 def parrot(phrase = "Squawk!")
-  "${phrase}"
+  return "${phrase}"
 end
